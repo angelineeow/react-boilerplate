@@ -1,0 +1,26 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "( Homework due on week 3 friday )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelineeow/react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelineeow/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/angelineeow/react-boilerplate#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
